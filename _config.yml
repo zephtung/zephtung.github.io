@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: ZephTung's Blog
+title: ZephTung's blog
 description: ❤
 github_username: 
 
 # Email and twitter are optional:
 email:
-twitter_username:ZephTung
+twitter_username: ZephTung
 
 # Set this to true to get LaTeX math equation support
 use_math:
